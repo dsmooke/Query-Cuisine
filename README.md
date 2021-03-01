@@ -39,7 +39,7 @@ After navigating to the correct web address, enter up to five ingredients into t
 
 ## Contributing
 
-Paul Jakubowski, Jeremy Rice, Dana Smooke, Cris Franco
+Paul Jakubowski, [Jeremy Rice](https://github.com/jdavidrice), [Dana Smooke](https://github.com/dsmooke), [Cris Franco](https://github.com/Cris-Franco)
 
 * [Return to Top](#Query-Cuisine)
 
